@@ -1,0 +1,28 @@
+.header {
+    width: 1296px;
+    height: 56px;
+    display: flex;
+    margin: auto;
+    background-color: rgb(247, 247, 247);
+    justify-content: space-between;
+}
+
+.logo {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-left: 10px;
+}
+
+.img {
+    line-height: 60px;
+}
+.img img {
+    width: 25px;
+    margin-right: 10px;
+}
+
